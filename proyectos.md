@@ -16,7 +16,7 @@ Los hallazgos indican que ambos enfoques son prometedores, aunque su precisión 
 * **Supervisor Académico:** Franz Chouly
 * **Supervisor Industrial:** Francisco Pons
 * **Tecnologías:** Python, FEniCS (software para MEF), RBniCs (software para ROM), UQpy, Scikit-learn, Pytorch, LightGBM
-* **Documentación y código:** [Ver en GitHub](httpss://github.com/matias-ingenium/Optimizacion_del_calculo_de_estructuras_con_ML)
+* **Documentación y código:** [Ver en GitHub](https://github.com/matias-ingenium/Optimizacion_del_calculo_de_estructuras_con_ML)
 
 
 ### Proyecto 2: Desarrollo de un Agente Inteligente para Interacción Autónoma en X (Twitter)
