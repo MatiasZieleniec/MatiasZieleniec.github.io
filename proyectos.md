@@ -16,4 +16,22 @@ Los hallazgos indican que ambos enfoques son prometedores, aunque su precisión 
 * **Supervisor Académico:** Franz Chouly
 * **Supervisor Industrial:** Francisco Pons
 * **Tecnologías:** Python, FEniCS (software para MEF), RBniCs (software para ROM), UQpy, Scikit-learn, Pytorch, LightGBM
-* **Documentación y código:** https://github.com/matias-ingenium/Optimizacion_del_calculo_de_estructuras_con_ML
+* **Documentación y código:** [Ver en GitHub](httpss://github.com/matias-ingenium/Optimizacion_del_calculo_de_estructuras_con_ML)
+
+
+### Proyecto 2: Desarrollo de un Agente Inteligente para Interacción Autónoma en X (Twitter)
+
+**Descripción:** Este proyecto consistió en la creación de un bot completamente funcional para la plataforma X, capaz de ir más allá de respuestas predefinidas. El bot escucha activamente las menciones, utiliza un modelo de lenguaje avanzado (LLM) a través de la API de OpenAI para entender la intención y el sentimiento del tuit original, y elabora respuestas contextualmente relevantes. Se utilizó la API de Google Sheets como una solución de bajo costo y fácil acceso para el monitoreo y registro de la actividad del bot.
+
+* **Supervisor:** Ariel Ehrlijman
+* **Habilidades Demostradas:** Orquestación de múltiples servicios web (APIs), aplicación práctica de modelos de IA, manejo de flujos de datos en tiempo real y automatización de tareas.
+* **Stack Tecnológico:** Python, Tweepy, OpenAI API, Google Sheets API.
+
+
+### Proyecto 3: Análisis Estadístico del Coleccionismo, Un Modelo de Simulación para el Álbum del Mundial
+
+**Descripción:** Este proyecto explora la fascinante matemática detrás de coleccionar el álbum del mundial. A través de una simulación, se construyó un modelo predictivo que no solo valida los resultados teóricos del clásico "problema del coleccionista de cupones", sino que también introduce capas de complejidad social y económica. Se investigó cómo la creación de una red de coleccionistas para el intercambio de duplicados reduce de manera significativa el costo y tiempo para finalizar el álbum. Además, se modeló un escenario con figuritas de diferente valor percibido, analizando cómo este factor altera el comportamiento y las estrategias de los coleccionistas.
+
+* **Coautor:** Mauricio Conde
+* **Habilidades Demostradas:** Fuerte capacidad para traducir un problema del mundo real a un modelo matemático y computacional, análisis estadístico de resultados de simulación y visualización de datos para comunicar conclusiones complejas de forma efectiva.
+* **Stack Tecnológico:** Python, NumPy, Matplotlib.
