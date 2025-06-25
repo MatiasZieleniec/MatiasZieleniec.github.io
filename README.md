@@ -4,4 +4,4 @@ Soy un estudiante apasionado por la intersección entre la **matemática abstrac
 
 Aquí encontrarás una selección de mis proyectos académicos y personales donde aplico fundamentos matemáticos para construir soluciones de software eficientes y robustas.
 
-[Ver mis Proyectos](./proyectos.md) | [Sobre Mí](./sobre-mi.md) | [Mi CV](./assets/CV_NombreApellido.pdf)
+[Ver mis Proyectos](./proyectos.md) | [Sobre Mí](./sobre-mi.md) | [Mi CV](./assets/cv_zieleniec_sarganas_matias.pdf)
