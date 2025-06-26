@@ -2,7 +2,7 @@
 title: "Matías Zieleniec | Matemática y Computación"
 description: "Mi portafolio de proyectos y habilidades."
 
-<img src="/assets/profile.jpeg" alt="Foto de perfil de Matías" style="float: right; width: 180px; margin: 0 0 1rem 2rem; border-radius: 15px;">
+avatar: /assets/profile.jpeg
 
 # Aquí le dices a Jekyll qué tema usar
 theme: jekyll-theme-minimal
