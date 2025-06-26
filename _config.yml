@@ -6,3 +6,14 @@ logo: /assets/profile.jpeg
 
 # Aquí le dices a Jekyll qué tema usar
 theme: jekyll-theme-minimal
+
+# ----------------------------------------------------
+# Configuración para SEO y Verificación de Google
+
+# Activa el plugin de SEO (buena práctica)
+plugins:
+  - jekyll-seo-tag
+
+# Añade aquí tus códigos de verificación
+webmaster_tools:
+  google_verify: "LibfHECxgNN3-d7zxYc2Dx8XusYxQOQ7dm9IgnLEnLo"
