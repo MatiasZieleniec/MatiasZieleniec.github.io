@@ -35,3 +35,4 @@ Los hallazgos indican que ambos enfoques son prometedores, aunque su precisión 
 * **Coautor:** Mauricio Conde
 * **Habilidades Demostradas:** Fuerte capacidad para traducir un problema del mundo real a un modelo matemático y computacional, análisis estadístico de resultados de simulación y visualización de datos para comunicar conclusiones complejas de forma efectiva.
 * **Stack Tecnológico:** Python, NumPy, Matplotlib.
+* **Documentación y código:** [Ver en GitHub](https://github.com/mauricio-conde/coupon-collector-problem)
