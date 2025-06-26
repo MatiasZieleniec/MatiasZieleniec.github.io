@@ -5,14 +5,76 @@
 // Esta línea le dice a Jekyll que cargue el diseño base antes que nada.
 @import "minimal";
 
+// ... (después del @import "minimal";)
+
+// Define las fuentes base
+body {
+  font-family: 'Lato', sans-serif; // Fuente limpia para el texto
+}
+
+// Fuente con más personalidad para los encabezados
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700; // Negrita
+}
+
 // -----------------------------------------------------------------------------
 
 // Paso 2: AHORA, después de cargar el tema, añadimos nuestras reglas
 // personalizadas para sobrescribir o añadir estilos.
 
-/* Este código busca cualquier imagen dentro del <header> y la alinea a la derecha. */
+/* Este código busca cualquier imagen dentro del <header>. */
 header img {
   margin: 0.5rem 1rem 1rem 1rem !important; /* Espacio alrededor (arriba, dcha, abajo, izq) */
   border-radius: 15px !important; /* Esquinas redondeadas */
   max-width: 150px !important; /* Limita el tamaño de la foto */
+}
+
+// ... (después de lo demás)
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.project-card {
+  background: #f9f9f9;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-card .tags {
+  margin-top: auto; /* Empuja los tags hacia abajo */
+  padding-top: 1rem;
+}
+
+.project-card .tag {
+  display: inline-block;
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 0.2rem 0.6rem;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.project-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    padding-top: 1rem;
 }
