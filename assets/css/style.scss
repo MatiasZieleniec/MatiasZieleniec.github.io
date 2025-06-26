@@ -1,11 +1,19 @@
 ---
 ---
 
-/* Este código busca cualquier imagen dentro del <header> y la alinea a la derecha.
-   Como tu logo/foto es la única imagen ahí, funcionará perfectamente. */
+// Paso 1: Importar TODOS los estilos originales del tema "minimal".
+// Esta línea le dice a Jekyll que cargue el diseño base antes que nada.
+@import "minimal";
+
+// -----------------------------------------------------------------------------
+
+// Paso 2: AHORA, después de cargar el tema, añadimos nuestras reglas
+// personalizadas para sobrescribir o añadir estilos.
+
+/* Este código busca cualquier imagen dentro del <header> y la alinea a la derecha. */
 header img {
   float: right !important; /* La mueve a la derecha */
-  margin: 0.5rem 0 1rem 1rem !important; /* Espacio alrededor (arriba, dcha, abajo, izq) */
+  margin: 0.5rem 1rem 1rem 1rem !important; /* Espacio alrededor (arriba, dcha, abajo, izq) */
   border-radius: 15px !important; /* Esquinas redondeadas */
   max-width: 150px !important; /* Limita el tamaño de la foto */
 }
