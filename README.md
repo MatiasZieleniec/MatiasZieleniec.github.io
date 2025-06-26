@@ -31,4 +31,4 @@ Mi paso por la docencia en secundaria fue una escuela de comunicación y empatí
 
 Este portafolio es una ventana a mi trabajo. Te invito a explorar los proyectos donde he puesto en práctica esta filosofía.
 
-[Ver mis Proyectos](./proyectos.md)  | [Mi CV](./assets/cv_zieleniec_sarganas_matias.pdf)
+[Ver mis Proyectos](./proyectos.md)  | [Papers](./papers.md)  |  [Mi CV](./assets/cv_zieleniec_sarganas_matias.pdf)
